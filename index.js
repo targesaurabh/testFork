@@ -7,3 +7,4 @@ console.log("Stay tuned for new commits...!!!!");
 console.log("master is ahead now");
 console.log("Issue fixed");
 console.log("Issue 2 is fixed");
+console.log("Master is ahead again..");
