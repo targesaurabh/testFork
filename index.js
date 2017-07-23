@@ -4,3 +4,4 @@ function fun(){
 }
 console.log("Ends here");
 console.log("Stay tuned for new commits...!!!!");
+console.log("Issue fixed");
