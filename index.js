@@ -5,3 +5,4 @@ function fun(){
 console.log("Ends here");
 console.log("Stay tuned for new commits...!!!!");
 console.log("master is ahead now");
+console.log("Issue fixed");
